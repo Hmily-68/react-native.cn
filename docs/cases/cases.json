@@ -1,5 +1,12 @@
 [
 	{
+		"name": "信用家",
+		"desc": "一家讲信用的装修服务平台",
+		"ios": "https://itunes.apple.com/us/app/%E4%BF%A1%E7%94%A8%E5%AE%B6/id1175205981?mt=8",
+		"android": "http://125.78.246.64/imtt.dd.qq.com/16891/C77810E60FD209964EF8E5CA2600790D.apk?mkey=593e511429a10f8d&f=f24&c=0&fsname=com.xyj.zxxyj_app_4.0.0_4.apk&csr=1bbd&p=.apk ",
+		"icon": "http://img.2bai.com.cn//appimg/logosimage/36373/2017_06_13_10_03_08kjp19.png"
+	},
+	{
 		"name": "漂漂共享书",
 		"desc": "与朋友同事分享纸质图书",
 		"ios": "https://itunes.apple.com/cn/app/id1201678520?ls=1&mt=8",
